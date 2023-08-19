@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+
+}
+
+#bulb{
+    width: 333px;
+    display: block;
+    margin: auto;
+}
+
+#toggleBtn{ 
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 13px;
+    font-weight: bold;
+}
+button{
+    cursor: pointer;
+}
